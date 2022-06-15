@@ -106,4 +106,4 @@ When I modified the exploit.py, I started my attack as figure 15. I create my ba
  
 *Figure 15: “Successful attack”*
 
-### Comment for the project = For the project3, I did the Task 1 through Task3. I spent approximately 2.5-3 days for completing the tasks, therefore I could not attempt to finish the rest of the tasks, but I will try to finish the tasks 8 and 9 for the final exam. 
+
